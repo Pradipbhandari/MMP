@@ -1,0 +1,11 @@
+imutils==0.5.4
+keras==2.8.0
+mutagen==1.45.1
+pandas==1.4.2
+python-dotenv==0.20.0
+scikit_learn==1.1.0
+boto3==1.16.0
+pygame==2.1.2
+ttkthemes==3.2.2
+tensorflow==2.8.0
+opencv_python==4.5.5.64
